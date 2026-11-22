@@ -1,0 +1,14 @@
+# Optional direct HTTPS link to the exact generated plugins/ScrapShift/ScrapShift-pack.zip.
+resource-pack-url: ''
+# Built-in pack server. Open this TCP port for remote players, or use a direct URL above.
+resource-pack-http: true
+resource-pack-http-port: 8127
+# Optional public base URL (e.g. https://packs.example.org), proxying /scrapshift/ to this port.
+# If blank, use the hostname the player used to join Minecraft, with the HTTP port above.
+resource-pack-public-base: ''
+resource-pack-required: true
+mirrp-auto-download: true
+quota: 100
+day-limit: 3
+mob-health: 2
+quota-multiplier: 2.0

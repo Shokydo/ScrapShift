@@ -1,0 +1,4 @@
+61-MARCH and 68-ARTIFICE terrain samples from maps by matveyddd:
+https://www.planetminecraft.com/project/61-march-lethal-company-1-21-11/
+https://www.planetminecraft.com/project/68-artifice-lethal-company-1-21-11/
+Only surface height and natural block type are sampled; no original buildings, doors, entities or datapacks are installed.

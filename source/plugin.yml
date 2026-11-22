@@ -1,0 +1,18 @@
+name: ScrapShift
+version: 3.0.49
+main: shift.ScrapShift
+api-version: '1.21.11'
+commands:
+  scrap:
+    description: Правила и состояние экспедиции
+    usage: /scrap [restart|pack|give|items|settings]
+permissions:
+  scrapshift.restart:
+    description: Перезапустить кампанию Scrap Shift
+    default: op
+  scrapshift.give:
+    description: Выдача предметов Scrap Shift
+    default: op
+  scrapshift.campaign:
+    description: Настройки кампании Scrap Shift
+    default: op

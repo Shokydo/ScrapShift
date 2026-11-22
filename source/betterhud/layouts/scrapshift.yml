@@ -1,0 +1,24 @@
+scrapshift_health:
+  images:
+    1:
+      name: scrapshift_health_shell
+      x: 0
+      y: 0
+      layer: 1
+    2:
+      name: scrapshift_health_fill
+      x: 18
+      y: 4
+      layer: 2
+scrapshift_stamina:
+  images:
+    1:
+      name: scrapshift_stamina_shell
+      x: 0
+      y: 0
+      layer: 1
+    2:
+      name: scrapshift_stamina_fill
+      x: 18
+      y: 4
+      layer: 2

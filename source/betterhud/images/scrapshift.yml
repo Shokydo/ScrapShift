@@ -1,0 +1,22 @@
+scrapshift_health_shell:
+  type: single
+  file: scrap_health_shell.png
+scrapshift_health_fill:
+  type: listener
+  file: scrap_health_fill.png
+  split: 32
+  split-type: left
+  setting:
+    listener:
+      class: scrapshift_health
+scrapshift_stamina_shell:
+  type: single
+  file: scrap_stamina_shell.png
+scrapshift_stamina_fill:
+  type: listener
+  file: scrap_stamina_fill.png
+  split: 32
+  split-type: left
+  setting:
+    listener:
+      class: scrapshift_stamina

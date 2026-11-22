@@ -1,0 +1,19 @@
+scrapshift_status:
+  default: true
+  layouts:
+    1:
+      name: scrapshift_health
+      gui:
+        x: 50
+        y: 100
+      pixel:
+        x: -153
+        y: -33
+    2:
+      name: scrapshift_stamina
+      gui:
+        x: 50
+        y: 100
+      pixel:
+        x: 37
+        y: -33
